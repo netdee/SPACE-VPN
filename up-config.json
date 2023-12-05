@@ -2,12 +2,15 @@
   "version": 1.0,
   "message": "
   
-📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - 1
-\n•> 📆 Latest update - 5/12/2023
-\n•> รองรับการใช้งาน True Dtac Ais
+📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - V.1.0
+📆 Latest update - 5/12/2023
+📢รองรับการใช้งาน True Dtac Ais
 ✅ True Nopro
 ✅ Dtac ProLine 
 ✅ Ais Play+64Kbps
+🌐 มีเซิร์ฟเวอร์ให้เลือกทั้งไทยและต่างประเทศ
+🇹🇭 เซิร์ฟเวอร์ไทย 01
+🇸🇬 เซิร์ฟเวอร์สิงคโปร์ 01
   
   ",
   "data": [
@@ -20,6 +23,17 @@
     },  {
       "name": "Thailand True-Nopro-01",
       "content": "vmess://eyJhZGQiOiIxMDQuMTguMTAuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiI1N2Q5OWVmNC1kNWZhLTQ3ZWEtYmFhMi1kZDkxZTQ3Yjk3NTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJUSDEtVHJ1ZS1Ob3BybyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    }, {
+      "name": "Singapore Ais-Play+64Kbps-01",
+      "content": "vmess://eyJhZGQiOiJzZzEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJjMGM1YzJmZC00NTk0LTQzODYtYWEzNi00OTY3NWNlM2NlYzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzEtQWlzLVBsYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },  {
+      "name": "Singapore Dtac-Line-01",
+      "content": "vmess://eyJhZGQiOiJzZzEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYy5uYXZlci5jb20iLCJpZCI6ImMwYzVjMmZkLTQ1OTQtNDM4Ni1hYTM2LTQ5Njc1Y2UzY2VjNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlNHMS1EdGFjLUxpbmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },  {
+      "name": "Singapore True-Nopro-01",
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiJjMGM1YzJmZC00NTk0LTQzODYtYWEzNi00OTY3NWNlM2NlYzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzEtVHJ1ZS1Ob3BybyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     }
+
+    
   ]
 }
