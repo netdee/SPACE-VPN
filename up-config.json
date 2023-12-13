@@ -3,18 +3,31 @@
   "message": "
   
 📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - V.1.0
-📆 Latest update - 5/12/2023
-📢รองรับการใช้งาน True Dtac Ais
+📆 Latest update - 13/12/2023
+📥 -เพิมเซิร์ฟเวอร์ไทยเกม 01 🎮
+
+📢รองรับการใช้งาน True Dtac Ais  
 ✅ True Nopro
 ✅ Dtac ProLine 
 ✅ Ais Play+64Kbps
+  
 🌐 มีเซิร์ฟเวอร์ให้เลือกทั้งไทยและต่างประเทศ
 🇹🇭 เซิร์ฟเวอร์ไทย 01
 🇸🇬 เซิร์ฟเวอร์สิงคโปร์ 01
+🎮 เซิร์ฟเวอร์ไทยเกม 01
   
   ",
   "data": [
     {
+      "name": "Thailand Game-Ais-Play+64Kbps-01",
+      "content": "vmess://eyJhZGQiOiJnYW1lLTAxLmFsaWVudnBuLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsImlkIjoiYzgzZWQ1YjktNzcxMy00OWU1LTg0YTUtNWFjMWJiZDg3MTJkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiR2FtZS0wMS1BaXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },{
+      "name": "Thailand Game-Dtac-Line-01",
+      "content": "vmess://eyJhZGQiOiJnYW1lLTAxLmFsaWVudnBuLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2MubmF2ZXIuY29tIiwiaWQiOiI3MmEyMTI2Ni03OWU0LTQwNTMtODU3NS05NmJkODFlYzA3ODgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJHYW1lLTAxLUR0YWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },{
+      "name": "Thailand Game-True-Nopro-01",
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnYW1lLTAxLmFsaWVudnBuLm9ubGluZSIsImlkIjoiNWFmNDEyZWEtMWQ1OS00ZTEyLWI3NjgtNWUzZjNiMzQ5YTM4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiR2FtZS0wMS1UcnVlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },{
       "name": "Thailand Ais-Play+64Kbps-01",
       "content": "vmess://eyJhZGQiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI1N2Q5OWVmNC1kNWZhLTQ3ZWEtYmFhMi1kZDkxZTQ3Yjk3NTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJUSDEtQWlzLVBsYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
