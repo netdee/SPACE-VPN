@@ -1,10 +1,10 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "message": "
   
-📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - V 1.1
-📆 Latest update - 13/12/2023
-📥 -เพิมเซิร์ฟเวอร์ไทยเกม 01 🎮
+📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - V 1.2
+📆 Latest update - 14/12/2023
+📥 -แก้เซิฟเวอร์ไทย 01 ติดแต่เล่นไม่ได้
 
 📢รองรับการใช้งาน True Dtac Ais  
 ✅ True Nopro
@@ -29,14 +29,14 @@
       "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnYW1lLTAxLmFsaWVudnBuLm9ubGluZSIsImlkIjoiNWFmNDEyZWEtMWQ1OS00ZTEyLWI3NjgtNWUzZjNiMzQ5YTM4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiR2FtZS0wMS1UcnVlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
     },{
       "name": "Thailand Ais-Play+64Kbps-01",
-      "content": "vmess://eyJhZGQiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiI1N2Q5OWVmNC1kNWZhLTQ3ZWEtYmFhMi1kZDkxZTQ3Yjk3NTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJUSDEtQWlzLVBsYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-    }, {
+      "content": "vmess://eyJhZGQiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJjNzE3ZTJiMC03YzE3LTQ5OTctODM4Mi1iM2YwOWRlNmJkYWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJWUE4tRnJlZS1BaXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },{
       "name": "Thailand Dtac-Line-01",
-      "content": "vmess://eyJhZGQiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYy5uYXZlci5jb20iLCJpZCI6IjU3ZDk5ZWY0LWQ1ZmEtNDdlYS1iYWEyLWRkOTFlNDdiOTc1MyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlRIMS1EdGFjLUxpbmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
-    },  {
+      "content": "vmess://eyJhZGQiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYy5uYXZlci5jb20iLCJpZCI6ImM3MTdlMmIwLTdjMTctNDk5Ny04MzgyLWIzZjA5ZGU2YmRhYyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlZQTi1GcmVlLUR0YWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },{
       "name": "Thailand True-Nopro-01",
-      "content": "vmess://eyJhZGQiOiIxMDQuMTguMTAuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiI1N2Q5OWVmNC1kNWZhLTQ3ZWEtYmFhMi1kZDkxZTQ3Yjk3NTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJUSDEtVHJ1ZS1Ob3BybyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    }, {
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiJjNzE3ZTJiMC03YzE3LTQ5OTctODM4Mi1iM2YwOWRlNmJkYWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJWUE4tRnJlZS1UcnVlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },{
       "name": "Singapore Ais-Play+64Kbps-01",
       "content": "vmess://eyJhZGQiOiJzZzEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJjMGM1YzJmZC00NTk0LTQzODYtYWEzNi00OTY3NWNlM2NlYzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzEtQWlzLVBsYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },  {
