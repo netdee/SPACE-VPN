@@ -1,9 +1,10 @@
 {
-  "version": 1.4,
+  "version": 1.5,
   "message": "
   
-📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - V 1.4
-📆 Latest update - 26/01/2023
+📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - V 1.5
+📆 Latest update - 28/01/2023
+ - เพิ่ม Thailand Game (เล่นเกมได้)
   
 🌐 มีเซิร์ฟเวอร์ให้เลือกทั้งไทยและต่างประเทศ
 📢รองรับการใช้งาน True Ais Dtac
@@ -24,6 +25,15 @@
     },{
       "name": "Thailand Dtac-01 (ไม่ต้องมีโปร)",
       "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiJjZTg1OTUxNy1kMTUxLTQ4N2QtYjUzYi1lMTNiZTBjYmMwMmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJUSC0xLVRSVUUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },{
+      "name": "Thailand Game Ais-01 (Aisplay+64Kbps)",
+      "content": "vmess://eyJhZGQiOiJnYW1lMS12MnJheS5hbGllbnZwbi5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiIyYWY0ZjlhMi1lN2RjLTRjNjYtODRkYy04NjZlOGY0ZjAxN2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJHYW1lLTAxLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },{
+      "name": "Thailand Game True-01 (โนโปร)",
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnYW1lMS12MnJheS5hbGllbnZwbi5vbmxpbmUiLCJpZCI6IjQ1YzNiOGY3LWM1M2EtNDJhYy04MGExLTMxYjc0ZjcwZjI4NSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkdhbWUtMDEtVFJVRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },{
+      "name": "Thailand Game Dtac-01 (ไม่ต้องมีโปร)",
+      "content": "vmess://eyJhZGQiOiJkdGFjbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnYW1lMS12MnJheS5hbGllbnZwbi5vbmxpbmUiLCJpZCI6ImJjYzFkMjRlLTVmZDctNGZhYy1hY2NhLTRmOGExNTMyODUxZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkdhbWUtMDEtRFRBQyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
       "name": "Singapore Ais-01 (Aisplay+64Kbps)",
       "content": "vmess://eyJhZGQiOiJzZzEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNmYyOWQ1ZjktMDgyMC00MTYxLWEwYzctYzFiYTljYzQ0NGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiU0ctMS1BSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
