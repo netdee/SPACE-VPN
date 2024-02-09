@@ -1,15 +1,15 @@
 {
-  "version": 1.5,
+  "version": 1.6,
   "message": "
   
-📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - V 1.5
-📆 Latest update - 28/01/2023
- - เพิ่ม Thailand Game (เล่นเกมได้)
+📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - V 1.6
+📆 Latest update - 09/02/2024
   
 🌐 มีเซิร์ฟเวอร์ให้เลือกทั้งไทยและต่างประเทศ
 📢รองรับการใช้งาน True Ais Dtac
 ✅ Dtac Nopro
 ✅ True Nopro
+✅ True Facebookgaming
 ✅ Ais Play+64Kbps
   
 
@@ -17,41 +17,41 @@
   ",
   "data": [
     {
-      "name": "Thailand Ais-01 (Aisplay+64Kbps)",
-      "content": "vmess://eyJhZGQiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiYjBkMmZjYjctZTljMS00OWQ4LWFhNWMtNGQzYzcyYzM3NjRlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiVEgtMS1BSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "name": "Thailand CAT-Ais-01 (Aisplay+64Kbps)",
+      "content": "vmess://eyJhZGQiOiJjYXQxLmFsaWVudnBuLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6Ijg4YmI3Y2I4LTRmMGItNGU2ZS04Y2IwLWJlNzRmMjZiNmRmNiIsIm5ldCI6IndzIiwicGF0aCI6Ii94cmF5dndzIiwicG9ydCI6IjgwIiwicHMiOiJjYXQxLWFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-      "name": "Thailand True-01 (โนโปร)",
-      "content": "vmess://eyJhZGQiOiJkdGFjbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiJjYmJkZmYyZi1lMjVkLTQ5NTUtOTY5NS1iMTNhZTQ0NWVlYTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJUSC0xLURUQUMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "name": "Thailand CAT-True-01 (ไม่ต้องมีโปร)",
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQxLmFsaWVudnBuLm9ubGluZSIsImlkIjoiODhiYjdjYjgtNGYwYi00ZTZlLThjYjAtYmU3NGYyNmI2ZGY2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3hyYXl2d3MiLCJwb3J0IjoiODAiLCJwcyI6ImNhdDEtdHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-      "name": "Thailand Dtac-01 (ไม่ต้องมีโปร)",
-      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aDEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiJjZTg1OTUxNy1kMTUxLTQ4N2QtYjUzYi1lMTNiZTBjYmMwMmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJUSC0xLVRSVUUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "name": "Thailand CAT-Dtac-01 (ไม่ต้องมีโปร)",
+      "content": "vmess://eyJhZGQiOiJkdGFjbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQxLmFsaWVudnBuLm9ubGluZSIsImlkIjoiODhiYjdjYjgtNGYwYi00ZTZlLThjYjAtYmU3NGYyNmI2ZGY2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3hyYXl2d3MiLCJwb3J0IjoiODAiLCJwcyI6ImNhdDEtZHRhYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-      "name": "Thailand Game Ais-01 (Aisplay+64Kbps)",
-      "content": "vmess://eyJhZGQiOiJnYW1lMS12MnJheS5hbGllbnZwbi5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiIyYWY0ZjlhMi1lN2RjLTRjNjYtODRkYy04NjZlOGY0ZjAxN2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJHYW1lLTAxLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
-      "name": "Thailand Game True-01 (โนโปร)",
-      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnYW1lMS12MnJheS5hbGllbnZwbi5vbmxpbmUiLCJpZCI6IjQ1YzNiOGY3LWM1M2EtNDJhYy04MGExLTMxYjc0ZjcwZjI4NSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkdhbWUtMDEtVFJVRSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-    },{
-      "name": "Thailand Game Dtac-01 (ไม่ต้องมีโปร)",
-      "content": "vmess://eyJhZGQiOiJkdGFjbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnYW1lMS12MnJheS5hbGllbnZwbi5vbmxpbmUiLCJpZCI6ImJjYzFkMjRlLTVmZDctNGZhYy1hY2NhLTRmOGExNTMyODUxZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkdhbWUtMDEtRFRBQyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "name": "Thailand CAT-True-01 (โปรเฟสบุ๊คเกมมิ่ง)",
+      "content": "vmess://eyJhZGQiOiJjYXQxLmFsaWVudnBuLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4OGJiN2NiOC00ZjBiLTRlNmUtOGNiMC1iZTc0ZjI2YjZkZjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJheXZ3cyIsInBvcnQiOiI0NDMiLCJwcyI6ImNhdDEtZmFjZSIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYmNkbi5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
       "name": "Singapore Ais-01 (Aisplay+64Kbps)",
-      "content": "vmess://eyJhZGQiOiJzZzEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNmYyOWQ1ZjktMDgyMC00MTYxLWEwYzctYzFiYTljYzQ0NGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiU0ctMS1BSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "content": "vmess://eyJhZGQiOiJzZzEuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNmJmODM1NWUtY2YzNC00YzA5LWFlNmQtZTNiNTUzMDU3OThiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiU0cxLUFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-      "name": "Singapore True-01 (โนโปร)",
-      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiJhNDczMjMyOS02MmJhLTQ0MTAtOGNmZS03OWI4NjQ2MTA2NTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRy0xLVRSVUUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "name": "Singapore True-01 (ไม่ต้องมีโปร)",
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzEuYWxpZW52cG4ub25saW5lIiwiaWQiOiI3NTBmZDhiOC1lNjI2LTRkMTgtOTJhMy03M2MzMTFhMjM2YmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzEtVHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
       "name": "Singapore Dtac-01 (ไม่ต้องมีโปร)",
-      "content": "vmess://eyJhZGQiOiJkdGFjbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzEtdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiI4YzgxMGZjZC0xMDk4LTQwOGMtYTU0ZC05MzFmYzE3YzY3ZmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRy0xLURUQUMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "content": "vmess://eyJhZGQiOiJkdGFjbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzEuYWxpZW52cG4ub25saW5lIiwiaWQiOiI3ODU1M2M4ZC1mNzY2LTQzMmMtOTU0OS02ZTY3ZjZkYWIwYzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzEtRHRhYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },{
+      "name": "Singapore True-01 (โปรเฟสบุ๊คเกมมิ่ง)",
+      "content": "vmess://eyJhZGQiOiJzZzEuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjM2YmRkODItMTZkMS00NmI0LWIyYzEtYjE3Zjk2NGI3NGI4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTU5MCIsInBzIjoiU0cxLUZhY2Vib29rZ2FtaW5nIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
     },{
       "name": "Singapore Ais-02 (Aisplay+64Kbps)",
-      "content": "vmess://eyJhZGQiOiJzZzItdjJyYXkuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZWNjMWFhNzEtNGNhNy00Njk1LTk3ZjMtMDRlMjZhOGFjNTU2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiU0ctMi1BSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "content": "vmess://eyJhZGQiOiJzZzIuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNmJmODM1NWUtY2YzNC00YzA5LWFlNmQtZTNiNTUzMDU3OThiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiU0cyLUFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
-      "name": "Singapore True-02 (โนโปร)",
-      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzItdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiIxM2E3ODIxYi1jYzFhLTQ1YzYtYTc2Ni04MjZjY2U2NmUxOWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRy0yLVRSVUUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "name": "Singapore True-02 (ไม่ต้องมีโปร)",
+      "content": "vmess://eyJhZGQiOiJkdGFjbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzIuYWxpZW52cG4ub25saW5lIiwiaWQiOiI3ODU1M2M4ZC1mNzY2LTQzMmMtOTU0OS02ZTY3ZjZkYWIwYzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzItRHRhYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
       "name": "Singapore Dtac-02 (ไม่ต้องมีโปร)",
-      "content": "vmess://eyJhZGQiOiJkdGFjbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzItdjJyYXkuYWxpZW52cG4ub25saW5lIiwiaWQiOiI5YmE5N2M4NS1hNWNkLTQxOWQtOWRkMC0wNTE3MTBmYjRhZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRy0yLURUQUMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZzIuYWxpZW52cG4ub25saW5lIiwiaWQiOiI3NTBmZDhiOC1lNjI2LTRkMTgtOTJhMy03M2MzMTFhMjM2YmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJTRzItVHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },{
+      "name": "Singapore True-02 (โปรเฟสบุ๊คเกมมิ่ง)",
+      "content": "vmess://eyJhZGQiOiJzZzIuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjM2YmRkODItMTZkMS00NmI0LWIyYzEtYjE3Zjk2NGI3NGI4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTU5MCIsInBzIjoiU0cyLUZhY2Vib29rZ2FtaW5nIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
     }
 
   ]
