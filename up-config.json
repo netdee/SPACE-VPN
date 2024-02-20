@@ -1,9 +1,9 @@
 {
-  "version": 1.6,
+  "version": 1.7,
   "message": "
   
-📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - V 1.6
-📆 Latest update - 09/02/2024
+📁 มีไฟล์อัพเดตเวอร์ชันใหม่ - V 1.7
+📆 Latest update - 20/02/2024
   
 🌐 มีเซิร์ฟเวอร์ให้เลือกทั้งไทยและต่างประเทศ
 📢รองรับการใช้งาน True Ais Dtac
@@ -18,16 +18,16 @@
   "data": [
     {
       "name": "Thailand CAT-Ais-01 (Aisplay+64Kbps)",
-      "content": "vmess://eyJhZGQiOiJjYXQxLmFsaWVudnBuLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6Ijg4YmI3Y2I4LTRmMGItNGU2ZS04Y2IwLWJlNzRmMjZiNmRmNiIsIm5ldCI6IndzIiwicGF0aCI6Ii94cmF5dndzIiwicG9ydCI6IjgwIiwicHMiOiJjYXQxLWFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiJ0aDEuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNmJmODM1NWUtY2YzNC00YzA5LWFlNmQtZTNiNTUzMDU3OThiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiVEgxLUFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
       "name": "Thailand CAT-True-01 (ไม่ต้องมีโปร)",
-      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQxLmFsaWVudnBuLm9ubGluZSIsImlkIjoiODhiYjdjYjgtNGYwYi00ZTZlLThjYjAtYmU3NGYyNmI2ZGY2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3hyYXl2d3MiLCJwb3J0IjoiODAiLCJwcyI6ImNhdDEtdHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiJ0cnVlbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aDEuYWxpZW52cG4ub25saW5lIiwiaWQiOiI3NTBmZDhiOC1lNjI2LTRkMTgtOTJhMy03M2MzMTFhMjM2YmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJUSDEtVHJ1ZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
       "name": "Thailand CAT-Dtac-01 (ไม่ต้องมีโปร)",
-      "content": "vmess://eyJhZGQiOiJkdGFjbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQxLmFsaWVudnBuLm9ubGluZSIsImlkIjoiODhiYjdjYjgtNGYwYi00ZTZlLThjYjAtYmU3NGYyNmI2ZGY2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3hyYXl2d3MiLCJwb3J0IjoiODAiLCJwcyI6ImNhdDEtZHRhYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiJkdGFjbm9wcm8uYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aDEuYWxpZW52cG4ub25saW5lIiwiaWQiOiI3ODU1M2M4ZC1mNzY2LTQzMmMtOTU0OS02ZTY3ZjZkYWIwYzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJUSDEtRHRhYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },{
       "name": "Thailand CAT-True-01 (โปรเฟสบุ๊คเกมมิ่ง)",
-      "content": "vmess://eyJhZGQiOiJjYXQxLmFsaWVudnBuLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4OGJiN2NiOC00ZjBiLTRlNmUtOGNiMC1iZTc0ZjI2YjZkZjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIveHJheXZ3cyIsInBvcnQiOiI0NDMiLCJwcyI6ImNhdDEtZmFjZSIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYmNkbi5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+      "content": "vmess://eyJhZGQiOiJ0aDEuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjM2YmRkODItMTZkMS00NmI0LWIyYzEtYjE3Zjk2NGI3NGI4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTU5MCIsInBzIjoiVEgxLUZhY2Vib29rZ2FtaW5nIiwic2N5IjoiYXV0byIsInNuaSI6ImZiY2RuLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
     },{
       "name": "Singapore Ais-01 (Aisplay+64Kbps)",
       "content": "vmess://eyJhZGQiOiJzZzEuYWxpZW52cG4ub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiNmJmODM1NWUtY2YzNC00YzA5LWFlNmQtZTNiNTUzMDU3OThiIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiU0cxLUFpcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
